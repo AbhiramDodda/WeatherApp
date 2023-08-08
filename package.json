@@ -1,0 +1,26 @@
+{
+  "name": "weatherapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "i": "^0.3.7",
+    "sass": "^1.64.2",
+    "uid": "^2.0.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "saas": "^1.0.0",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.6"
+  }
+}
